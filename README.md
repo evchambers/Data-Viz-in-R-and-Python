@@ -30,7 +30,11 @@ Collection of Links to Great Resources for Inspiring Data Visualisations in R an
 
 ### Essential Resources
 
+- [From data to Viz](https://www.data-to-viz.com/)
 - [Python Graph Gallery](https://www.python-graph-gallery.com/)
-
+- [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+- [Seaborn Gallery](http://seaborn.pydata.org/examples/index.html)
+- [Plotly Gallery](https://plotly.com/python/)
+- [plotnine Gallery](https://plotnine.readthedocs.io/en/stable/gallery.html)
 
 To Be Continued...
