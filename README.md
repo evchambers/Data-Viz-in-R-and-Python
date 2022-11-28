@@ -17,6 +17,7 @@ Collection of Links to Great Resources for Inspiring Data Visualisations in R an
 - [The ggplot2 Extensions Gallery](https://exts.ggplot2.tidyverse.org/)
 - [Plotly R](https://plotly.com/r/)
 - [Highcharter](https://jkunst.com/highcharter/index.html)
+- [DiagrammeR](https://rich-iannone.github.io/DiagrammeR/)
 
 ### Tutorials with Plot Ideas
 
@@ -24,6 +25,7 @@ Collection of Links to Great Resources for Inspiring Data Visualisations in R an
 - [The Complete ggplot2 Tutorial - Part 2](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part2-Customizing-Theme-With-R-Code.html)
 - [Top 50 ggplot2 Visualizations - The Master List](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+- [Data-driven flowcharts in R using DiagrammeR](https://mikeyharper.uk/flowcharts-in-r-using-diagrammer/)
 
 ### Colour Palettes in R
 
